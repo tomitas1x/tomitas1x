@@ -4,9 +4,12 @@
 🚀 Apasionado por crear experiencias web y mobile modernas, fluidas y funcionales  
 
 <p align="left">
-  <img src="./assets/portada_perfil.jpg" width="100%" alt="Desarrollador Frontend - Rafael Ortega"/>
+  <img src="./assets/portada_perfil.jpg" 
+       width="100%" 
+       height="250px" 
+       style="object-fit: cover;" 
+       alt="Desarrollador Frontend - Rafael Ortega"/>
 </p>
-
 
 ### 🧠 Sobre mí  
 Soy un desarrollador especializado en **React**, framework en el cual tengo un **certificado de especialización**.  
