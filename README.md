@@ -3,7 +3,10 @@
 💻 **Desarrollador Web Full Stack** orientado al **Front-End**  
 🚀 Apasionado por crear experiencias web y mobile modernas, fluidas y funcionales  
 
----
+<p align="center">
+  <img src="./assets/portada_perfil.jpg" width="600" alt="Desarrollador Frontend - Rafael Ortega"/>
+</p>
+
 
 ### 🧠 Sobre mí  
 Soy un desarrollador especializado en **React**, framework en el cual tengo un **certificado de especialización**.  
