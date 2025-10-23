@@ -4,7 +4,7 @@
 🚀 Apasionado por crear experiencias web y mobile modernas, fluidas y funcionales  
 
 <p align="left">
-  <img src="./assets/portada_perfil.jpg" width="600" alt="Desarrollador Frontend - Rafael Ortega"/>
+  <img src="./assets/portada_perfil.jpg" width="900" alt="Desarrollador Frontend - Rafael Ortega"/>
 </p>
 
 
