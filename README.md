@@ -3,7 +3,7 @@
 💻 **Desarrollador Web Full Stack** orientado al **Front-End**  
 🚀 Apasionado por crear experiencias web y mobile modernas, fluidas y funcionales  
 
-<p align="center">
+<p align="left">
   <img src="./assets/portada_perfil.jpg" width="600" alt="Desarrollador Frontend - Rafael Ortega"/>
 </p>
 
