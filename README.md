@@ -6,7 +6,7 @@
 <p align="left">
   <img src="./assets/portada_perfil.jpg" 
        width="100%" 
-       height="250px" 
+       height="350px" 
        style="object-fit: cover;" 
        alt="Desarrollador Frontend - Rafael Ortega"/>
 </p>
